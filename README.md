@@ -1,6 +1,8 @@
-# 2025 Quantum Information Competition in South Korea
+# 2025 Quantum Information Competition
+- 06.29.2025 - 07.01.2025
+- Gangnam, South Korea
 
-## Problem Prompt
+## Problem #1 Prompt
 
 _Abstract_:
 
@@ -17,7 +19,7 @@ focusing on the configuration recovery technique. Teams should propose a problem
 and implement a sample-based quantum algorithm that solves it, possibly adapting
 the configuration recovery method for better fit to the algorithm.
 
-Further details in the reference, question number 1.
+Further details in the reference, problem number 1.
 
 ## References/Websites
 - https://qhackathon.kr/2026/?p=0401&idx=5523
